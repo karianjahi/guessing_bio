@@ -23,7 +23,7 @@ class GuessBio:
         :return: None if okay and raise error if not
         """
         if not isinstance(string, str):
-            raise TypeError("first name must be a string")
+            raise TypeError(f"{string} must be a string")
 
     def guess_bio(self):
         """
