@@ -7,4 +7,4 @@ Using it on the terminal:
 
 
 
-![Python application](https://github.com/USERNAME/REPO/workflows/Python%20application/badge.svg)
+![Python application](https://github.com/USERNAME/REPO/workflows/Python%20application/badge.svg)]
