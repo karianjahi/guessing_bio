@@ -4,3 +4,7 @@ This module implements the faker package to guess the address, phone number and 
 Using it on the terminal:
 
 `python apply_guess_bio <first_name> <last_name>`
+
+
+
+![Python application](https://github.com/USERNAME/REPO/workflows/Python%20application/badge.svg)
